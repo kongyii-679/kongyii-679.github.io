@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>我的个人网站</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #2277aa;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎来到我的网站！🎉</h1>
+    <p>这是我的第一个网页，部署在 GitHub Pages 上。</p>
+    <p>慢慢建设中...</p>
+</body>
+</html>
